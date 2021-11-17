@@ -22,7 +22,7 @@ Project aims to create a calculator.
 
 ## Expected Outcome
 
-![Project Snapshot](project_003.png)
+![Project Snapshot](project.png)
 
 ## Objective
 
@@ -53,9 +53,9 @@ Build a Calculator app with 4 operands, minimum 9 digits.
 
 >>Part-1 HTML Structure
 
-	- Creat structure of the HTML5
+	- Create structure of the HTML5
 	- Give name of your project (title)
-	- Create the main structur of the HTML
+	- Create the main structure of the HTML
 
 >>Part-2 CSS Structure
 
